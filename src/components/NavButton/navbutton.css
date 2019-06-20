@@ -1,4 +1,7 @@
 .selected-nav-button {
     color: hotpink; 
     background-color: darkgreen;
+    height: 30px;
+    width: 80px;
+    border-radius: 25%;
 }
